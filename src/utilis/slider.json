@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Lifestyle villa",
+        "price": "38,000",
+        "details": "lorem ipsum",
+        "image": "image link"
+    },
+    {
+        "name": "likizo castle",
+        "price": "20,000",
+        "details": "lorem ipsum",
+        "image": "image link"
+    },
+    {
+        "name": "Alfa house villa",
+        "price": "50,000",
+        "details": "lorem ipsum",
+        "image": "image link"
+    },
+    {
+        "name": "karen villa",
+        "price": "130,000",
+        "details": "lorem ipsum",
+        "image": "image link"
+    },
+    {
+        "name": "pervillion villas",
+        "price": "34,000",
+        "details": "lorem ipsum",
+        "image": "image link"
+    },
+    {
+        "name": "kempiski outering villa",
+        "price": "180,000",
+        "details": "lorem ipsum",
+        "image": "image link"
+    },
+    {
+        "name": "Alive Priva garden",
+        "price": "22,000",
+        "details": "lorem ipsum",
+        "image": "image link"
+    }
+]
